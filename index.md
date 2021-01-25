@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## about me
 
-You can use the [editor on GitHub](https://github.com/clarenznet/clarenznet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Instrumentation and control professional with a keen interest in solving embedded systems problems using a computational physics approach, and with the touch of artificial intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### motivation
 
-### Markdown
+I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full solution.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interests
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clarenznet/clarenznet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Things that always get my attention include QED, biosensors and internet of things applications, even at a nanoscale level.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+can reach me out at +254713593916 
+or email me clarenznet@gmail.com
