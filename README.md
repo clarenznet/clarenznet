@@ -1,5 +1,5 @@
 ### Hi there 👋
-Free hands here, I'll do your embedded tasks, machine learning tasks, android tasks, IOT tasks and edge computing tasks if you agree to share with me your experience. Trading my time for your experience.
+Free hands here, I'll do your embedded tasks, machine learning tasks, android tasks, IOT tasks and edge computing tasks if you agree to share with me a some of your experience. Trading my time for your experience in this sector.
 
 I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full solution.
 
