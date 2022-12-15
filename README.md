@@ -6,7 +6,7 @@ As a developer data analysis native mobile application development are my day to
 
 I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full stack hardware and software solution.
 
-things that always get my attention include QED, biosensors and internet of things applications, even at a nanoscale level.
+things that always get my attention include QED, biosensors, flexibles and internet of things applications, even at a nanoscale level.
 <!--
 **clarenznet/clarenznet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
