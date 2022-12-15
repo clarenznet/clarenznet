@@ -1,7 +1,10 @@
 ### Hi there 👋
-Free hands here, I'll do your embedded tasks, machine learning tasks, android tasks, IOT tasks and edge computing tasks if you agree to share with me a some of your experience. Trading my time for your experience in this sector.
 
-I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full solution.
+A passionate developer with interest in embedded development, internet of things applications and edge machine learning computing applications.
+
+As a developer data analysis native mobile application development are my day to day areas of application.
+
+I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full stack hardware and software solution.
 
 things that always get my attention include QED, biosensors and internet of things applications, even at a nanoscale level.
 <!--
