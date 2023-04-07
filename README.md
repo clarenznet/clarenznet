@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A passionate developer with interest in embedded development, internet of things applications and edge machine learning computing applications.
+A passionate developer with interest in embedded development, internet of things applications and edge computing applications.
 
 As a developer data analysis native mobile application development are my day to day areas of application.
 
