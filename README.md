@@ -1,22 +1,17 @@
-### Hi there 👋
+### Hi there 👋<br/>
 
-A passionate developer with interest in embedded development, internet of things applications and edge computing applications.
+## Am passionate developer with interest in embedded development, internet of things applications and edge computing applications.<br/><br/>
 
-As a developer data analysis native mobile application development are my day to day areas of application.
+I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full stack hardware and software solution.<br/><br/>
 
-I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full stack hardware and software solution.
 
-things that always get my attention include QED, biosensors, flexibles and internet of things applications, even at a nanoscale level.
-<!--
-**clarenznet/clarenznet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**clarenznet/clarenznet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br/><br/>
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:<br/><br/>
 
-- 🔭 I’m currently working on: android apps, embbedded projects, sensor technology.
-- 🌱 I’m currently learning: machine learning, embedded programming
-- 👯 I’m looking to collaborate on: machine learning, embedded systems, sensors, biosensors and bioactuators
-- 🤔 I’m looking for help with: future civilization
-- 💬 Ask me about: ancient civilization
-- 📫 How to reach me: clarenznet@gmail.com
-- 😄 Pronouns: tinyML, resistor,flipflop, capacitor,inductor, mosfet, chip, array
-- ⚡ Fun fact: LIGHT CAN BE SLOWED DOWN-->
+- 🔭 I’m currently working on: android apps, embbedded projects, sensor technology.<br/>
+- 🌱 I’m currently learning: machine learning, embedded programming edge machine learning<br/>
+- 🤔 I’m looking for help with: embedded machine learning<br/>
+- 💬 Ask me about: android apps, controls IoT, instrumentation<br/>
+- 📫 How to reach me: clarenznet@gmail.com<br/>
+- ⚡ Fun fact: LIGHT CAN BE SLOWED DOWN, SOMETIMES WHEN IN PLANETARY ORBIT, YOU WILL NEED TO BRAKE INORDER TO GAIN SPEED, IT GETS EVEN WEIRDER.<br/><br/>
