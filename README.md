@@ -1,12 +1,8 @@
 ### Hi there 👋<br/>
 
 ## Am passionate developer with interest in embedded development, internet of things applications and edge computing applications.<br/><br/>
-
 I endeavour to build full stack solutions from working hardware solutions to hosted apis and web apps for a full stack hardware and software solution.<br/><br/>
-
-
-<!--**clarenznet/clarenznet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--><br/><br/>
-
+<!--**clarenznet/clarenznet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Some information about clarenznet:<br/><br/>
 
 - 🔭 I’m currently working on: android apps, embedded projects, sensor technology.<br/>
